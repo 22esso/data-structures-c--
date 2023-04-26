@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1667490872 source:e:\cpp projects\assignment one ds\src\student.cpp
+
+1667495006 source:e:\cpp projects\assignment one ds\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"Student.h"
+
+1667490914 e:\cpp projects\assignment one ds\include\student.h
+	<iostream>
+

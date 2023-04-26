@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1671733944 source:e:\cpp projects\ds_assignment_3\src\book.cpp
+	"Book.h"
+
+1671732867 e:\cpp projects\ds_assignment_3\include\book.h
+	<bits/stdc++.h>
+
+1671730502 source:e:\cpp projects\ds_assignment_3\src\bst.cpp
+	"BST.h"
+
+1671735005 e:\cpp projects\ds_assignment_3\include\bst.h
+	"Book.h"
+	<bits/stdc++.h>
+
+1671734915 source:e:\cpp projects\ds_assignment_3\main.cpp
+	<iostream>
+	"BST.h"
+

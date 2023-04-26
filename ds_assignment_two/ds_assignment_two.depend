@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1670625372 source:e:\cpp projects\ds_assignment_two\src\book.cpp
+	"Book.h"
+
+1670625292 e:\cpp projects\ds_assignment_two\include\book.h
+	<iostream>
+
+1671132830 source:e:\cpp projects\ds_assignment_two\main.cpp
+	<iostream>
+	"include\Book.h"
+	"include\Doubly_Linked_List.h"
+	<bits/stdc++.h>
+
+1670624334 e:\cpp projects\ds_assignment_two\include\doubly_linked_list.h
+	"Book.h"
+
+1670688463 source:e:\cpp projects\ds_assignment_two\src\doubly_linked_list.cpp
+	"Doubly_Linked_List.h"
+
